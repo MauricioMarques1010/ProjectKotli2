@@ -5,13 +5,13 @@ package main
  */
 class StringAlgorithm {
     fun creatPattern () {
-        val PatternCypher = arrayOF("ABCDEFGHIJKLMNOPRSTUVXYZ")
+        val PatternCypher = arrayOf("ABCDEFGHIJKLMNOPRSTUVXYZ")
     }
     fun cesarCypher(inputText:String, patternCypher:CharArray)
     {
 
     }
     fun main(args: Array<String>){
-        printl("My Project")
+        println("My Project")
     }
 }
